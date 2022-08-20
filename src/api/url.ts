@@ -1,5 +1,5 @@
 const apiEndpoints = {
-  pokemon: "/pokemon",
+	pokemon: "/pokemon",
 };
 
 export { apiEndpoints };
